@@ -1,0 +1,23 @@
+# --- Security (NEVER UPLOAD THESE) ---
+.env
+.env.local
+secrets.json
+api_keys.txt
+
+# --- Python Junk (Generated automatically) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environments (Virtual Envs) ---
+venv/
+env/
+.venv/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Settings (VS Code / PyCharm) ---
+.vscode/
+.idea/
